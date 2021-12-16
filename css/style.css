@@ -157,6 +157,7 @@ button {
   position: relative;
   width: 30px;
   height: 15px;
+  cursor: pointer;
 }
 
 .burger::before {
