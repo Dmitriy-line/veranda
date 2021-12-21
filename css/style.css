@@ -420,7 +420,7 @@ button {
 
 .hero-socials {
   position: absolute;
-  bottom: 55px;
+  bottom: 140px;
   right: 50%;
   -webkit-transform: translateX(50%);
       -ms-transform: translateX(50%);
@@ -453,13 +453,13 @@ button {
 
 .page-down {
   position: absolute;
+  bottom: 105px;
   left: 50%;
   -webkit-transform: translateX(-50%) rotate(-45deg);
       -ms-transform: translateX(-50%) rotate(-45deg);
           transform: translateX(-50%) rotate(-45deg);
   width: 15px;
   height: 15px;
-  bottom: 20px;
   border-bottom: 4px solid var(--gray);
   border-left: 4px solid var(--gray);
   border-radius: 4px;
